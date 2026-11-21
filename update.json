@@ -1,0 +1,12 @@
+{
+  "data": {
+    "hasUpdate": true,
+    "versionCode": 1013,
+    "versionName": "10.1.3",
+    "apkUrl": "https://github.com/sunny-leo922/aichat-releases/releases/download/v1013/app-release.apk",
+    "sha256": "e43d3e893c2190aa855a3ca3631ee21da39e06b906f6d5e1d6ed38c8cd9717a6",
+    "sizeBytes": 89512150,
+    "force": false,
+    "notice": "1. 优化性能\n2. 修复 bug"
+  }
+}
